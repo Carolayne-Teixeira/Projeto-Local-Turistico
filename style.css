@@ -31,7 +31,7 @@ body {
   text-align: center;
 }
 
-section,
+section, 
 main {
   margin: 0 auto;
   width: 1120px;
@@ -106,9 +106,17 @@ li::before {
 }
 
 .description-ultimo-texto {
-  margin-top: 80px;
+  margin: 0 auto;
+  margin-top: 40px;
   margin-bottom: 39px;
   text-align: center;
+  width: 1120px;
+}
+
+footer p {
+  color: #333333;
+  text-align: center;
+  padding-bottom: 40px;
 }
 
 footer img {
